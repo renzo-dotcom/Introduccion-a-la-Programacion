@@ -1,1 +1,0 @@
-"""Generar aleatorios de dos cifras hasta encontrar un numero que esté en el rango de [40-80]"""
